@@ -1,11 +1,21 @@
 # Lab 3 
+## part 1 
+- task 1 : Create JS script to be run in web browser ,
+User will enter his Username , Password
+If username = “admin” and password = “421$$”
+Show him message “Welcome login success”
+If he entered incorrect username or password
+Tell him which data entered wrong
+- task 2 : Create JS script to be run in web browser ,
+User will enter first number
+Then enter an operation (sum,multi,subtract,division,moduls)
+Then enter second number
+Then do the operation and show the result to user 
+- Bonus : Using lap2 add more features as following
+User will be able to use the last result to do new operation on it
+As example user enter 1 then sum then 3 then show 4 then sum then 5 then show 9 and so on
 
-
-
-| part Name | Desc |
-| ------ | ------ |
-| part 1  |    |
-| part 2 |
+## part 2 
 - task 1 : Calculate the Sum and average Of the user entered values
 Ask the user to enter how many number he wants to get the sum of
 Save the number in array
@@ -25,5 +35,4 @@ Then ask him for new operation and repeat
 Ask the user to enter the name of the shape he wants to calc area for
 Ask the user for the dimensions of that shape
 Calculate the area and show it to user
-| part 3  |    |
-| Bonus |    |
+
