@@ -5,8 +5,7 @@
 | part Name | Desc |
 | ------ | ------ |
 | part 1  | [plugins/dropbox/README.md][PlDb] |
-| part 2 | [- task 1 : 
-Calculate the Sum and average Of the user entered values
+| part 2 | [- task 1 : Calculate the Sum and average Of the user entered values
 Ask the user to enter how many number he wants to get the sum of
 Save the number in array
 Show him the sum and average of the entered values
@@ -21,11 +20,9 @@ Ask him for something to search for
 Get the user input and search in the contacts array in name and phone
 Then show the user the full details of that contact
 Then ask him for new operation and repeat
-
 - Bonus : Area calculator
 Ask the user to enter the name of the shape he wants to calc area for
 Ask the user for the dimensions of that shape
-Calculate the area and show it to user
-|
+Calculate the area and show it to user|
 | part 3  | [plugins/googledrive/README.md][PlGd] |
 | Bonus | [plugins/onedrive/README.md][PlOd] |
