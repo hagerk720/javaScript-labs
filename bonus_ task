@@ -1,0 +1,12 @@
+
+// Hacker Rank problem solving 
+// https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true 
+// Bonus task
+function countApplesAndOranges(s, t, a, b, apples, oranges) {
+    var aCount = 0 , bCount = 0 ; 
+    apples = apples.map(Element => Element + a );
+    oranges = oranges.map(Element => Element + b );
+   aCount += apples.filter(Element => Element >= s && Element <= t ).length;
+    bCount += oranges.filter(Element => Element >= s && Element <= t ).length;
+    console.log(aCount +"\n"+ bCount)    
+}
