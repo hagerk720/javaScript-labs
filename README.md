@@ -40,3 +40,6 @@ Calculate the area and show it to user
 - [x] Use 10 of Objects predefined methods and explain them.
 - [x] Use 10 of Arrays predefined methods and explain them.
 
+## Bonus task 
+HackerRank problem [**Link**](https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true)
+- [x] Done 
