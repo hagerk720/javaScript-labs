@@ -4,7 +4,7 @@
 
 | part Name | Desc |
 | ------ | ------ |
-| part 1  | [plugins/dropbox/README.md][PlDb] |
+| part 1  |    |
 | part 2 | - task 1 : Calculate the Sum and average Of the user entered values
 Ask the user to enter how many number he wants to get the sum of
 Save the number in array
@@ -23,6 +23,6 @@ Then ask him for new operation and repeat
 - Bonus : Area calculator
 Ask the user to enter the name of the shape he wants to calc area for
 Ask the user for the dimensions of that shape
-Calculate the area and show it to user|
-| part 3  | [plugins/googledrive/README.md][PlGd] |
-| Bonus | [plugins/onedrive/README.md][PlOd] |
+Calculate the area and show it to user
+| part 3  |    |
+| Bonus |    |
