@@ -5,7 +5,7 @@
 | part Name | Desc |
 | ------ | ------ |
 | part 1  | [plugins/dropbox/README.md][PlDb] |
-| part 2 | [- task 1 : Calculate the Sum and average Of the user entered values
+| part 2 | - task 1 : Calculate the Sum and average Of the user entered values
 Ask the user to enter how many number he wants to get the sum of
 Save the number in array
 Show him the sum and average of the entered values
