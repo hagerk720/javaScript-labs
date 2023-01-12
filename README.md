@@ -14,7 +14,7 @@ Then do the operation and show the result to user
 - Bonus : Using lap2 add more features as following
 User will be able to use the last result to do new operation on it
 As example user enter 1 then sum then 3 then show 4 then sum then 5 then show 9 and so on
-
+<br>
 ## part 2 
 - task 1 : Calculate the Sum and average Of the user entered values
 Ask the user to enter how many number he wants to get the sum of
