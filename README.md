@@ -1,2 +1,16 @@
-# javaScript-labs
-they are JavaScript labs for ITI intake 43 
+# lab4
+create object with 4 way 
+- [x] Constructor functions
+- [x] Using Classes
+- [x] Using Objects Linking to Other Objects (OLOO)
+- [x] Using Factory functions
+## Person:
+### Attributes 
+- full name
+- money
+- sleep mood
+- health Rate)
+### Methods 
+- sleep
+- eat
+- buy 
