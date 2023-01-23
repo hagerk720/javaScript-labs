@@ -1,5 +1,5 @@
 # lab 5 
-(Running file)[https://hagerk720.github.io/javaScript-labs/]
+[Running file][https://hagerk720.github.io/javaScript-labs/]
 there are 3 classes 
  - Person
  - Employee is a Person class
