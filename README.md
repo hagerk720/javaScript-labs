@@ -1,2 +1,1 @@
-# javaScript-labs
-they are JavaScript labs for ITI intake 43 
+# Lab 6 javaScript
