@@ -1,0 +1,98 @@
+body {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  margin-top: 50px;
+  background-color: #e2e2e2;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  width: 515px;
+}
+.alarm-section {
+  background-color: aliceblue;
+  padding: 20px;
+  font-family: "Orbitron", sans-serif;
+  border-radius: 0 0 15px 15px;
+}
+.timer-section {
+  border-radius: 15px 15px 0 0;
+  margin-bottom: 20px;
+  padding: 20px;
+  background-color: white;
+}
+.alarm {
+  box-shadow: 5px 5px 10px 1px #f60505;
+}
+.time {
+  font-size: 100px;
+  font-family: "Orbitron", sans-serif;
+}
+.time-contain {
+  display: none;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  margin: 10px;
+}
+.square {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  background-color: black;
+  border-radius: 20px;
+  color: white;
+}
+input {
+  width: 30px;
+  border-radius: 15px;
+  padding: 10px;
+  border: none;
+}
+input:focus {
+  outline: none;
+}
+.btn {
+  border: 2px solid;
+  padding: 2px;
+  width: fit-content;
+  border-radius: 7px;
+  cursor: pointer;
+}
+.alarms-list {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  list-style-type: none;
+  width: 100%;
+}
+.alarm-item {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+}
+.delete-alarm {
+  cursor: pointer;
+}
+.date {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row-reverse;
+  gap: 20px;
+  color: #aaa;
+}
+.today {
+  color: #fff;
+  background-color: #cacaca;
+  padding: 0.2rem;
+  border-radius: 1.1rem;
+  margin-bottom: 1.1rem;
+  padding: 0 5px;
+}
